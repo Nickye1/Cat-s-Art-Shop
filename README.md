@@ -1,4 +1,3 @@
-Overview
 This project is a Basic E-commerce System designed using foundational Python concepts. It provides a simple and functional implementation of an 
 online store, demonstrating the use of core programming principles such as variables, lists, arrays, loops, conditionals, sorting, and searching.
 
